@@ -1,0 +1,29 @@
+		body{
+			background-color: lightgrey;
+		}
+
+
+		h1{
+			color:blue;
+			font-size: 120px;
+			text-decoration: underline;
+		}
+		h2{
+			color: green;
+			font-size: 40px;
+		}
+
+		#first {
+			font-size: 150px;
+		}
+
+		.small{
+			font-size: 12px;
+		}
+
+		span{
+			font-style: italic;
+		}
+		h2 span{
+			text-decoration: line-through;
+		}
